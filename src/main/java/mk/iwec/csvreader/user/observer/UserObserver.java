@@ -1,6 +1,5 @@
 package mk.iwec.csvreader.user.observer;
 
-import mk.iwec.csvreader.contact.model.Contact;
 import mk.iwec.csvreader.infrastructure.observer.CSVReaderObserver;
 import mk.iwec.csvreader.user.model.User;
 import org.slf4j.Logger;

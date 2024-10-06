@@ -1,7 +1,5 @@
 package mk.iwec.csvreader.user.service;
 
-import mk.iwec.csvreader.contact.model.Contact;
-import mk.iwec.csvreader.contact.observer.ContactObserver;
 import mk.iwec.csvreader.infrastructure.service.GenericCSVReader;
 import mk.iwec.csvreader.user.model.User;
 import mk.iwec.csvreader.user.observer.UserObserver;
